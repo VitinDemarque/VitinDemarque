@@ -21,4 +21,4 @@
 
 
 ## 📃 My Stats
-![Victor Demarque GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPicancoo&show_icons=true&theme=tokyonight)
+![Victor Demarque GitHub stats](https://github-readme-stats.vercel.app/api?username=VitinDemarque&show_icons=true&theme=tokyonight)
